@@ -15,6 +15,8 @@ angular.module('starter', ['ionic'])
       // Don't remove this line unless you know what you are doing. It stops the viewport
       // from snapping when text inputs are focused. Ionic handles this internally for
       // a much nicer keyboard experience.
+        //second try
+        //third try
       cordova.plugins.Keyboard.disableScroll(true);
     }
     if(window.StatusBar) {

@@ -17,6 +17,7 @@ angular.module('starter', ['ionic'])
       // a much nicer keyboard experience.
         //second try
         //third try
+        //dafeafaefa
       cordova.plugins.Keyboard.disableScroll(true);
     }
     if(window.StatusBar) {
